@@ -2993,7 +2993,7 @@ J. Kuo
 	Private Lessons-- Vitalidad Movement Arts Center 
 	</span>
 	<span class="payscale">
-		Pay rate: Private Lesson
+		Pay rate: Private Lesson (85%)
 	</span>
 </div>
 
@@ -3005,26 +3005,20 @@ J. Kuo
 <td>Appt. Time</td>
 
 	<td>
-Client Name(s)
+Client Name
+	</td>
+
+<td colspan="3">Series Used</td>
+
+	<td>
+Revenue
 	</td>
 
 <td></td>
 
 	<td>
-# Clients
+Rev. per Session
 	</td>
-
-	<td>
-# Comps
-	</td>
-
-	<td>
-Base Pay
-	</td>
-
-<td></td>
-
-<td></td>
 
 	<td>
 Earnings
@@ -3041,30 +3035,23 @@ Monday, July 29, 2019
 </td>
 <td class="fivePercentWidth">3:00&nbsp;pm </td>
 <td class="twentyPercentWidth">A. Unterberger</td>
+<td class="twentyPercentWidth" colspan="3">
+	Private Lesson 5 hour package - One Instructor
+</td>
+<td class="alRight tenPercentWidth">320.00</td>
 
 <td></td>
 
-<td class="tenPercentWidth">1</td>
-<td class="tenPercentWidth">0</td>
-<td class="alRight tenPercentWidth">0.00</td>
+<td class="alRight tenPercentWidth">64.00</td>
+<td class="alRight twentyPercentWidth">54.40</td>
 
-<td></td>
-
-<td></td>
-
-<td class="alRight thirtyPercentWidth">0.00</td>
 
 </tr>
 
 <tr class="subtotal">
 
-<td colspan="6"></td>
-<td>0.00</td>
-
-<td></td>
-
-<td></td>
-<td class="alRight">0.00</td>
+<td colspan="9"></td>
+<td>54.40</td>
 
 </tr>
 
@@ -3079,7 +3066,7 @@ Monday, July 29, 2019
 			Total:
 		</td>
 		<td class="alRight twentyPercentWidth">tot
-			0.00
+			54.40
 		</td>
 	</tr>
 </table>
@@ -4061,7 +4048,7 @@ S. Alekseenko
 </td>
 <td class="fivePercentWidth">6:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-M. Gregory
+M. Grace
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Drop in $15 Dance Class
@@ -4902,7 +4889,7 @@ L. Scheffey
 </td>
 <td class="fivePercentWidth">6:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-M. Gregory
+M. Grace
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Drop in $15 Dance Class
@@ -5086,12 +5073,12 @@ A. Tagbakhsh
 			<td class="tenPercentWidth">5</td>
 			<td class="tenPercentWidth">64</td>
 			<td class="thirtyPercentWidth">3</td>
-			<td class="">$400.56</td>
+			<td class="">$454.96</td>
 
 			<td colspan="2"></td>
 
 			<td class="alRight twentyPercentWidth">
-				400.56
+				454.96
 			</td>
 		</tr>
 
@@ -11530,7 +11517,7 @@ A. Carr
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -11598,7 +11585,7 @@ A. Arano
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	10.00
+	11.11
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -12195,6 +12182,35 @@ M. Kelly
 <td class="fifteenPercentWidth">
 7/16/2019
 </td>
+<td class="fivePercentWidth">7:30&nbsp;pm </td>
+<td class="twentyPercentWidth">
+C. Liu
+</td>
+<td class="twentyPercentWidth unpaidTypePurchColumn" colspan="3">
+	Unpaid Dance Classes
+</td>
+
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+
+<td class="alRight tenPercentWidth">
+0.00
+</td>
+
+</tr>
+
+<tr class="">
+
+<td class="fifteenPercentWidth">
+7/16/2019
+</td>
 <td class="fivePercentWidth">8:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
 K. Nae
@@ -12219,7 +12235,7 @@ K. Nae
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12248,7 +12264,7 @@ E. Hosseinion
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12277,7 +12293,7 @@ S. Hosseinion
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12306,7 +12322,7 @@ A. Anderson
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12335,7 +12351,7 @@ I. Ingerson
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12364,7 +12380,7 @@ M. Maldonado
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12393,7 +12409,7 @@ S. Saleem
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12422,7 +12438,7 @@ A. Campbell
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12451,7 +12467,7 @@ B. Rosen
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12480,7 +12496,7 @@ K. Kara
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12509,7 +12525,7 @@ J. Dang
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12538,7 +12554,7 @@ N. Kawaguchi
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12567,7 +12583,7 @@ E. Randolph
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12596,7 +12612,7 @@ T. Torralba
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12625,7 +12641,7 @@ J. Hicke
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12654,7 +12670,7 @@ A. Rangel
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12683,7 +12699,7 @@ S. Qualls
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12712,7 +12728,7 @@ C. Elliott
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12741,7 +12757,7 @@ A. Carr
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12770,14 +12786,14 @@ J. Graham
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
 </td>
 <td class="fivePercentWidth">8:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -12799,7 +12815,7 @@ E. Molena
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12828,7 +12844,7 @@ E. Verdin
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12857,7 +12873,7 @@ J. Ostrovskaia
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12886,7 +12902,7 @@ J. Bansal
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12915,7 +12931,7 @@ G. Sanchez Sanchez
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12944,7 +12960,7 @@ N. Tseggai
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -12961,7 +12977,7 @@ A. Arano
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	10.00
+	11.11
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -12973,7 +12989,7 @@ A. Arano
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13002,7 +13018,7 @@ J. Curry
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13031,7 +13047,7 @@ S. Choi
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13060,7 +13076,7 @@ M. Tan
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13089,7 +13105,7 @@ A. Herron
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13118,7 +13134,7 @@ N. Heinze
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13147,7 +13163,7 @@ C. Gomez
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13176,7 +13192,7 @@ E. Duggan
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/16/2019
@@ -13205,7 +13221,7 @@ M. Powell
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13234,7 +13250,7 @@ S. Flanigan
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13263,7 +13279,7 @@ S. De Los Reyes
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13292,7 +13308,7 @@ L. Bottomly
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13321,7 +13337,7 @@ M. Raduma
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13350,7 +13366,7 @@ M. Hawks
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13379,7 +13395,7 @@ S. Mertsalov
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13408,7 +13424,7 @@ J. Hernandez
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13437,7 +13453,7 @@ T. Baldus
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13466,7 +13482,7 @@ R. Bolden
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13495,7 +13511,7 @@ M. Alfayez
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13524,7 +13540,7 @@ A. Velasco
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13553,7 +13569,7 @@ O. Metelskaya
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13582,7 +13598,7 @@ J. Fewx
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13611,7 +13627,7 @@ G. Medina
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13640,7 +13656,7 @@ S. Medina
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13669,7 +13685,7 @@ A. Qin
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13698,7 +13714,7 @@ C. Liu
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13727,7 +13743,7 @@ A. Litera
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13756,7 +13772,7 @@ L. Hanson
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13785,7 +13801,7 @@ S. Hily
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13814,7 +13830,7 @@ M. Youngs
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13843,7 +13859,7 @@ H. Leal Molina
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13872,7 +13888,7 @@ T. Haner
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13901,7 +13917,7 @@ S. Hosseinion
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13930,7 +13946,7 @@ I. Ingerson
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13959,7 +13975,7 @@ S. Saleem
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -13988,7 +14004,7 @@ A. Campbell
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14017,7 +14033,7 @@ B. Rosen
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14046,7 +14062,7 @@ K. Kara
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14075,7 +14091,7 @@ J. Dang
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14104,7 +14120,7 @@ N. Kawaguchi
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14133,14 +14149,14 @@ A. Carr
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -14162,7 +14178,7 @@ E. Molena
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14170,6 +14186,35 @@ E. Molena
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
 J. Bansal
+</td>
+<td class="twentyPercentWidth " colspan="3">
+	Bachata Intensive Intermediate 3 month program
+</td>
+
+<td class="alRight tenPercentWidth">
+	100.00
+</td>
+<td class="alRight tenPercentWidth">
+	12.50
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+
+<td class="alRight tenPercentWidth">
+0.00
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td class="fifteenPercentWidth">
+7/23/2019
+</td>
+<td class="fivePercentWidth">7:30&nbsp;pm </td>
+<td class="twentyPercentWidth">
+A. Arano
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -14198,35 +14243,6 @@ J. Bansal
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-A. Arano
-</td>
-<td class="twentyPercentWidth " colspan="3">
-	Bachata Intensive Intermediate 3 month program
-</td>
-
-<td class="alRight tenPercentWidth">
-	100.00
-</td>
-<td class="alRight tenPercentWidth">
-	10.00
-</td>
-<td class="alRight tenPercentWidth">
-	0.00
-</td>
-
-<td class="alRight tenPercentWidth">
-0.00
-</td>
-
-</tr>
-
-<tr class="odd">
-
-<td class="fifteenPercentWidth">
-7/23/2019
-</td>
-<td class="fivePercentWidth">7:30&nbsp;pm </td>
-<td class="twentyPercentWidth">
 J. Curry
 </td>
 <td class="twentyPercentWidth " colspan="3">
@@ -14249,7 +14265,7 @@ J. Curry
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14278,7 +14294,7 @@ M. Tan
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14307,7 +14323,7 @@ A. Herron
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14336,7 +14352,7 @@ N. Heinze
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14365,7 +14381,7 @@ B. Byrne
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14394,7 +14410,7 @@ C. Gomez
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14423,7 +14439,7 @@ K. Duong
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14452,7 +14468,7 @@ J. Rhee
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14481,7 +14497,7 @@ B. Hammet
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14510,7 +14526,7 @@ T. Craley
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14539,7 +14555,7 @@ E. Duggan
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14568,7 +14584,7 @@ P. Bose
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14597,7 +14613,7 @@ M. Powell
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14626,7 +14642,7 @@ E. Toops
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14655,7 +14671,7 @@ K. Shepherd
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14684,7 +14700,7 @@ B. Choe
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14713,7 +14729,7 @@ J. Hernandez
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14742,7 +14758,7 @@ M. St Denis
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14771,7 +14787,7 @@ M. Kelly
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14800,7 +14816,7 @@ E. Thompson
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/23/2019
@@ -14818,6 +14834,35 @@ S. Orellana
 </td>
 <td class="alRight tenPercentWidth">
 	15.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+
+<td class="alRight tenPercentWidth">
+0.00
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td class="fifteenPercentWidth">
+7/23/2019
+</td>
+<td class="fivePercentWidth">7:30&nbsp;pm </td>
+<td class="twentyPercentWidth">
+C. Liu
+</td>
+<td class="twentyPercentWidth unpaidTypePurchColumn" colspan="3">
+	Unpaid Dance Classes
+</td>
+
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -15416,7 +15461,7 @@ J. Graham
 </td>
 <td class="fivePercentWidth">8:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -15513,7 +15558,7 @@ J. Bansal
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	11.11
+	12.50
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -15600,7 +15645,7 @@ A. Arano
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	10.00
+	11.11
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -17127,7 +17172,7 @@ K. Kara
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -17166,7 +17211,7 @@ J. Bansal
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	11.11
+	12.50
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -17214,35 +17259,6 @@ N. Tseggai
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-A. Arano
-</td>
-<td class="twentyPercentWidth " colspan="3">
-	Bachata Intensive Intermediate 3 month program
-</td>
-
-<td class="alRight tenPercentWidth">
-	100.00
-</td>
-<td class="alRight tenPercentWidth">
-	0.00
-</td>
-<td class="alRight tenPercentWidth">
-	0.00
-</td>
-
-<td class="alRight tenPercentWidth">
-0.00
-</td>
-
-</tr>
-
-<tr class="odd">
-
-<td class="fifteenPercentWidth">
-7/30/2019
-</td>
-<td class="fivePercentWidth">7:30&nbsp;pm </td>
-<td class="twentyPercentWidth">
 J. Curry
 </td>
 <td class="twentyPercentWidth " colspan="3">
@@ -17265,7 +17281,7 @@ J. Curry
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17294,7 +17310,7 @@ M. Tan
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17323,7 +17339,7 @@ A. Herron
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17352,7 +17368,7 @@ C. Gomez
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17381,7 +17397,7 @@ M. Colindres
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17410,7 +17426,7 @@ K. Duong
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17439,7 +17455,7 @@ J. Rhee
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17468,7 +17484,7 @@ B. Hammet
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17497,7 +17513,7 @@ T. Craley
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17526,7 +17542,7 @@ P. Bose
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17555,7 +17571,7 @@ M. Powell
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17584,7 +17600,7 @@ R. Crescini
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17613,7 +17629,7 @@ E. Toops
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17642,7 +17658,7 @@ B. Choe
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17671,7 +17687,7 @@ K. Shepherd
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17700,7 +17716,7 @@ J. Hernandez
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17729,7 +17745,7 @@ E. Thompson
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17758,7 +17774,7 @@ T. Haner
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17787,7 +17803,7 @@ M. St Denis
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17816,7 +17832,7 @@ S. Warren
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17845,7 +17861,7 @@ E. Aguirre
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/30/2019
@@ -17863,6 +17879,35 @@ M. Kelly
 </td>
 <td class="alRight tenPercentWidth">
 	15.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+
+<td class="alRight tenPercentWidth">
+0.00
+</td>
+
+</tr>
+
+<tr class="">
+
+<td class="fifteenPercentWidth">
+7/30/2019
+</td>
+<td class="fivePercentWidth">7:30&nbsp;pm </td>
+<td class="twentyPercentWidth">
+C. Liu
+</td>
+<td class="twentyPercentWidth unpaidTypePurchColumn" colspan="3">
+	Unpaid Dance Classes
+</td>
+
+<td class="alRight tenPercentWidth">
+	0.00
+</td>
+<td class="alRight tenPercentWidth">
+	0.00
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -18432,7 +18477,7 @@ J. Graham
 </td>
 <td class="fivePercentWidth">8:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-E. Molena
+E. Molina
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Bachata Intensive Intermediate 3 month program
@@ -18529,7 +18574,7 @@ J. Bansal
 	100.00
 </td>
 <td class="alRight tenPercentWidth">
-	11.11
+	12.50
 </td>
 <td class="alRight tenPercentWidth">
 	0.00
@@ -19600,8 +19645,8 @@ D. Lassi
 				Total for I&#241;aki Villanueva-Torres, Deblin McKnight &amp; 
 			</td>
 			<td class="tenPercentWidth">11</td>
-			<td class="tenPercentWidth">256</td>
-			<td class="thirtyPercentWidth">56</td>
+			<td class="tenPercentWidth">259</td>
+			<td class="thirtyPercentWidth">55</td>
 			<td class="">$0.00</td>
 
 			<td colspan="2"></td>
@@ -22344,35 +22389,6 @@ B. Connolly
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-J. Bansal
-</td>
-<td class="twentyPercentWidth " colspan="3">
-	Bachata Intensive Intermediate 3 month program
-</td>
-
-<td class="alRight tenPercentWidth">
-	100.00
-</td>
-<td class="alRight tenPercentWidth">
-	11.11
-</td>
-<td class="alRight tenPercentWidth">
-	5.56
-</td>
-
-<td class="alRight tenPercentWidth">
-5.56
-</td>
-
-</tr>
-
-<tr class="">
-
-<td class="fifteenPercentWidth">
-7/25/2019
-</td>
-<td class="fivePercentWidth">7:30&nbsp;pm </td>
-<td class="twentyPercentWidth">
 A. Latorre
 </td>
 <td class="twentyPercentWidth " colspan="3">
@@ -22395,7 +22411,7 @@ A. Latorre
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22424,7 +22440,7 @@ C. Latorre
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22453,7 +22469,7 @@ A. Camarena
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22482,7 +22498,7 @@ D. Johnson
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22511,7 +22527,7 @@ M. Broadfoot
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22540,7 +22556,7 @@ P. Qin
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22569,7 +22585,7 @@ P. McDuffey
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22598,7 +22614,7 @@ T. Craley
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22627,7 +22643,7 @@ N. Tseggai
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22656,7 +22672,7 @@ A. Galtseva
 
 </tr>
 
-<tr class="">
+<tr class="odd">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22685,7 +22701,7 @@ A. Arano
 
 </tr>
 
-<tr class="odd">
+<tr class="">
 
 <td class="fifteenPercentWidth">
 7/25/2019
@@ -22710,6 +22726,35 @@ B. Choe
 
 <td class="alRight tenPercentWidth">
 5.00
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td class="fifteenPercentWidth">
+7/25/2019
+</td>
+<td class="fivePercentWidth">7:30&nbsp;pm </td>
+<td class="twentyPercentWidth">
+J. Bansal
+</td>
+<td class="twentyPercentWidth " colspan="3">
+	10 Class Card Dance
+</td>
+
+<td class="alRight tenPercentWidth">
+	130.00
+</td>
+<td class="alRight tenPercentWidth">
+	13.00
+</td>
+<td class="alRight tenPercentWidth">
+	6.50
+</td>
+
+<td class="alRight tenPercentWidth">
+6.50
 </td>
 
 </tr>
@@ -22804,7 +22849,7 @@ J. Mejia
 <tr class="subtotal">
 
 <td colspan="9"></td>
-<td>644.67</td>
+<td>645.61</td>
 
 </tr>
 
@@ -22909,7 +22954,7 @@ Friday, July 26, 2019
 			Total:
 		</td>
 		<td class="alRight twentyPercentWidth">tot
-			751.77
+			752.71
 		</td>
 	</tr>
 </table>
@@ -24017,12 +24062,12 @@ B. Morgan
 			<td class="tenPercentWidth">12</td>
 			<td class="tenPercentWidth">175</td>
 			<td class="thirtyPercentWidth">39</td>
-			<td class="">$1,312.80</td>
+			<td class="">$1,313.74</td>
 
 			<td colspan="2"></td>
 
 			<td class="alRight twentyPercentWidth">
-				1,312.80
+				1,313.74
 			</td>
 		</tr>
 
@@ -25102,7 +25147,7 @@ K. Allen
 </td>
 <td class="fivePercentWidth">7:30&nbsp;pm </td>
 <td class="twentyPercentWidth">
-M. Gregory
+M. Grace
 </td>
 <td class="twentyPercentWidth " colspan="3">
 	Drop in $15 Dance Class
@@ -30454,7 +30499,7 @@ Zouk Training Team Auditions
 	Private Lessons-- Vitalidad Movement Arts Center - Studio E by Vmac 
 	</span>
 	<span class="payscale">
-		Pay rate: Private Lesson
+		Pay rate: Private Lesson (85%)
 	</span>
 </div>
 
@@ -30466,26 +30511,20 @@ Zouk Training Team Auditions
 <td>Appt. Time</td>
 
 	<td>
-Client Name(s)
+Client Name
+	</td>
+
+<td colspan="3">Series Used</td>
+
+	<td>
+Revenue
 	</td>
 
 <td></td>
 
 	<td>
-# Clients
+Rev. per Session
 	</td>
-
-	<td>
-# Comps
-	</td>
-
-	<td>
-Base Pay
-	</td>
-
-<td></td>
-
-<td></td>
 
 	<td>
 Earnings
@@ -30502,30 +30541,23 @@ Friday, July 26, 2019
 </td>
 <td class="fivePercentWidth">2:00&nbsp;pm </td>
 <td class="twentyPercentWidth">M. Kelly</td>
+<td class="twentyPercentWidth" colspan="3">
+	Private Lesson - One Instructor - One Hour
+</td>
+<td class="alRight tenPercentWidth">70.00</td>
 
 <td></td>
 
-<td class="tenPercentWidth">1</td>
-<td class="tenPercentWidth">0</td>
-<td class="alRight tenPercentWidth">0.00</td>
+<td class="alRight tenPercentWidth">70.00</td>
+<td class="alRight twentyPercentWidth">59.50</td>
 
-<td></td>
-
-<td></td>
-
-<td class="alRight thirtyPercentWidth">0.00</td>
 
 </tr>
 
 <tr class="subtotal">
 
-<td colspan="6"></td>
-<td>0.00</td>
-
-<td></td>
-
-<td></td>
-<td class="alRight">0.00</td>
+<td colspan="9"></td>
+<td>59.50</td>
 
 </tr>
 
@@ -30540,7 +30572,7 @@ Friday, July 26, 2019
 			Total:
 		</td>
 		<td class="alRight twentyPercentWidth">tot
-			0.00
+			59.50
 		</td>
 	</tr>
 </table>
@@ -30568,12 +30600,12 @@ Friday, July 26, 2019
 			<td class="tenPercentWidth">2</td>
 			<td class="tenPercentWidth">10</td>
 			<td class="thirtyPercentWidth">0</td>
-			<td class="">$0.00</td>
+			<td class="">$59.50</td>
 
 			<td colspan="2"></td>
 
 			<td class="alRight twentyPercentWidth">
-				0.00
+				59.50
 			</td>
 		</tr>
 
@@ -37391,12 +37423,12 @@ T. Johnston
 	<tr class="grandTotal">
 		<td class="thirtyPercentWidth" colspan="3">Grand total</td>
 		<td class="tenPercentWidth">114</td>
-		<td class="tenPercentWidth">1112</td>
-		<td class="thirtyPercentWidth">144</td>
+		<td class="tenPercentWidth">1115</td>
+		<td class="thirtyPercentWidth">143</td>
 
 		<td colspan="3"></td>
 
-		<td class="alRight twentyPercentWidth">3,874.32</td>
+		<td class="alRight twentyPercentWidth">3,989.16</td>
 	</tr>
 </table>
 

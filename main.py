@@ -1,27 +1,45 @@
 import pandas
+from functions import *
 
-list = pandas.read_html('Payroll Report 7-15-2019 - 7-31-2019.xls')
-for df in list:
-    new_header = df.iloc[-1:]
-    print(new_header)
-    '''
+initial_read = pandas.read_html('Payroll Report 7-15-2019 - 7-31-2019.xls')
+master_list = remove_fluff_from_master_list(initial_read)
+initial_read = None
+instructor_df_groups = group_data_frames_by_instructor(master_list)
+
+for group in instructor_df_groups:
+	instructor_name = get_instructor_name_for_group(master_list, group)
+	move_header_row_to_top_of_data_frame(master_list, group)
+	# append_instructor_name_as_column(master_list, group)
+
+
+
+
+
+
+
+'''
 
   pattern is:
-    classes (with header row as last row)
-    Vitalidad Movement Arts Center Total:
-    Total for Instructor
+	classes (with header row as last row)
+	Vitalidad Movement Arts Center Total:
+	Total for Instructor
 
-    loop through list of dfs
-    create new list of dfs for each instructor
-        - while 'Total for' not in df[0,0], add to list
-        
-    for each df list
-        last data frame in list has instr name, get from there
-        remove the VMAC Total df
-        prepend new column = instructor name
-        determine whether public or private?
-        create file in format -> 00-Class-instructor .csv
-        
+	
+		
+	for each df list
+		---last data frame in list has instr name, get from there
+		---remove the VMAC Total df
+		--move header from bottom to top of dataframe
+		prepend new column = instructor name
+		determine whether public or private?
+		create file in format -> 00-Class-instructor .csv
+		
+		
+	approach: no longer distinguish between public and private.
+		add the instructor name as a new column at the begining of data frame
+		every df goes into its own file
+		do data column clean up here. replace appointment with class etc.
+		
 '''
 
 print('x')
