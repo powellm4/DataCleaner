@@ -32,7 +32,7 @@ def remove_fluff_from_master_list(master_list):
 	return new_master
 
 
-def move_header_row_to_top_of_data_frame(master_list, group):
+def move_header_row_to_top_of_data_frames(master_list, group):
 	list_length = len(group)
 	for i in range(0, list_length-1):
 		df = master_list[group[i]]
@@ -41,7 +41,10 @@ def move_header_row_to_top_of_data_frame(master_list, group):
 		df.drop(df.tail(2).index, inplace=True)
 
 
-def append_instructor_name_as_column(master_list, group):
+def append_instructor_name_as_column(master_list, group, name):
 	list_length = len(group)
-	for i in range(0, list_length):
+	for i in range(0, list_length-1):
 		group[i]
+		df = master_list[group[i]]
+		df.insert(loc=0, column='Instructor', value=name)
+

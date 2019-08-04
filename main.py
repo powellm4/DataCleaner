@@ -8,8 +8,8 @@ instructor_df_groups = group_data_frames_by_instructor(master_list)
 
 for group in instructor_df_groups:
 	instructor_name = get_instructor_name_for_group(master_list, group)
-	move_header_row_to_top_of_data_frame(master_list, group)
-	# append_instructor_name_as_column(master_list, group)
+	move_header_row_to_top_of_data_frames(master_list, group)
+	append_instructor_name_as_column(master_list, group, instructor_name)
 
 
 
@@ -29,8 +29,8 @@ for group in instructor_df_groups:
 	for each df list
 		---last data frame in list has instr name, get from there
 		---remove the VMAC Total df
-		--move header from bottom to top of dataframe
-		prepend new column = instructor name
+		---move header from bottom to top of dataframe
+		---prepend new column = instructor name
 		determine whether public or private?
 		create file in format -> 00-Class-instructor .csv
 		
