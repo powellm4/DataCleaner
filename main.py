@@ -10,7 +10,9 @@ for group in instructor_df_groups:
 	instructor_name = get_instructor_name_for_group(master_list, group)
 	move_header_row_to_top_of_data_frames(master_list, group)
 	append_instructor_name_as_column(master_list, group, instructor_name)
-
+	format_column_headers(master_list, group)
+	drop_unnecessary_columns(master_list, group)
+	add_new_file_for_instructor(master_list, group, instructor_name)
 
 
 

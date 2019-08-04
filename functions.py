@@ -1,3 +1,4 @@
+from config import unnecessary_columns
 
 def is_instructor_name_df(df):
 	if 'Total for' in df.iloc[0][0]:
@@ -44,7 +45,31 @@ def move_header_row_to_top_of_data_frames(master_list, group):
 def append_instructor_name_as_column(master_list, group, name):
 	list_length = len(group)
 	for i in range(0, list_length-1):
-		group[i]
 		df = master_list[group[i]]
 		df.insert(loc=0, column='Instructor', value=name)
 
+def add_new_file_for_instructor(master_list, group, instructor_name):
+	return 0
+
+
+def format_column_headers(master_list, group):
+	list_length = len(group)
+	for i in range(0, list_length-1):
+		df = master_list[group[i]]
+		df.columns = [c.strip() for c in df.columns]
+		df.columns = [c.replace(' ', '_') for c in df.columns]
+		df.columns = [c.replace('.', '') for c in df.columns]
+		df.columns = [c.replace('"', '') for c in df.columns]
+		df.columns = [c.replace('Appointment', 'Class') for c in df.columns]
+		df.columns = [c.replace('Appt', 'Class') for c in df.columns]
+
+
+def drop_unnecessary_columns(master_list, group):
+	list_length = len(group)
+	for i in range(0, list_length-1):
+		df = master_list[group[i]]
+		for column in unnecessary_columns:
+			if column in df.columns:
+				df = df.drop(columns=[column])
+		df = df.loc[:, ~df.columns.duplicated()]
+		master_list[group[i]] = df
