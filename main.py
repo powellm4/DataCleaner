@@ -24,6 +24,7 @@ def run_data_cleaner(filename):
 		df = remove_quotes(df)
 		df = format_client_name(df)
 		df = sort_by_date_time(df)
+		df = drop_duplicate_columns(df)
 		master_list[index] = df
 		write_df_to_csv(df)
 

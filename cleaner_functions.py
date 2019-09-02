@@ -61,7 +61,7 @@ def append_instructor_name_as_column(master_list, group, instructor_name):
 	list_length = len(group)
 	for i in range(0, list_length):
 		df = master_list[group[i]]
-		df = df.assign(Instructors=instructor_name)
+		df.insert(loc=0, column='Instructors', value=instructor_name)
 		master_list[group[i]] = df
 
 
@@ -130,9 +130,6 @@ def remove_quotes(df):
 
 def drop_nan_columns(df):
 	df = df.dropna(axis='columns', how='all')
-
-	# for idx in df.columns._nan_idxs:
-	# 	df = df.drop([1, idx])
 	return df
 
 
@@ -148,3 +145,13 @@ def drop_unnecessary_columns(df):
 	if "Rev_per_Session" in df.columns:
 		df = df.drop(columns=["Rev_per_Session"])
 	return df
+
+
+def drop_duplicate_columns(df):
+	df.columns = ['Instructors', 'Class_Date', 'Class_Time', 'Client_Name', 'Series_Used', 'dup1', 'dup2']
+	if "dup1" in df.columns:
+		df = df.drop(columns=["dup1"])
+	if "dup2" in df.columns:
+		df = df.drop(columns=["dup2"])
+	return df
+
