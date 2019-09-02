@@ -25,8 +25,10 @@ for index, df in enumerate(master_list):
 	df = format_client_name(df)
 	df = sort_by_date_time(df)
 	master_list[index] = df
+	write_df_to_csv(df)
 
 write_master_list_to_csv(master_list)
+
 print('x')
 
 
@@ -50,15 +52,11 @@ print('x')
 		-X-prepend new column = instructor name
 		-X-remove Total df from master_list
 		-X-write master list to one csv
+		-X-combine all group df's into 1 dataframe 
+		-X-create file in format -> 01-Class-instructor.csv
 		---look up pandas read html for colspan=3 causing 3 duplicate columns
-		---combine all group df's into 1 dataframe 
-		---create file in format -> 01-Class-instructor.csv
 		
-		
-	approach: no longer distinguish between public and private.
-		add the instructor name as a new column at the beginning of data frame
-		every df goes into its own file
-		do data column clean up here. replace appointment with class etc.
+
 		
 '''
 

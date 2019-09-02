@@ -76,6 +76,17 @@ def write_master_list_to_csv(master_list):
 		df.to_csv("%s%s.csv" % ('output/', '00-01-Class-All'), mode=mode, header=include_header, index=False)
 
 
+def write_df_to_csv(df):
+	instructor = df.loc[0, "Instructors"].strip().replace(" ", "-").replace(",", "")
+	if os.path.isfile("%s%s.csv" % ('output/01-Class-', instructor)):
+		mode = "a"
+		include_header = False
+	else:
+		mode = "w"
+		include_header = True
+	df.to_csv("%s%s.csv" % ('output/01-Class-', instructor), mode=mode, header=include_header, index=False)
+
+
 # creates the [folder] inside the /output/ folder
 def create_folder(folder):
     if not os.path.exists('output/'):

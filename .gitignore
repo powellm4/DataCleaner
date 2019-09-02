@@ -4,3 +4,7 @@
 output/00-01-Class-All.csv
 
 __pycache__/functions.cpython-37.pyc
+
+output/01-Class-Barker-Tyler.csv
+
+.idea/
