@@ -1,2 +1,6 @@
 
 \.idea/workspace\.xml
+
+output/00-01-Class-All.csv
+
+__pycache__/functions.cpython-37.pyc
