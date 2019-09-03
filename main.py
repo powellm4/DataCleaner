@@ -30,34 +30,7 @@ def run_data_cleaner(filename):
 
 	write_master_list_to_csv(master_list)
 
-	print('x')
+	print('Finished Data Cleaning')
 
 
-
-
-
-
-'''
-
-  pattern is:
-	classes (with header row as last row)
-	Vitalidad Movement Arts Center Total:
-	Total for Instructor
-
-	
-		
-	for each df list
-		-X-last data frame in list has instr name, get from there
-		-X-remove the VMAC Total df
-		-X-move header from bottom to top of dataframe
-		-X-prepend new column = instructor name
-		-X-remove Total df from master_list
-		-X-write master list to one csv
-		-X-combine all group df's into 1 dataframe 
-		-X-create file in format -> 01-Class-instructor.csv
-		---look up pandas read html for colspan=3 causing 3 duplicate columns
-		
-
-		
-'''
 
